@@ -3,12 +3,12 @@
 <h3 align="center">Estudante de Ciência da Computação | Dev, Dados, IA & Cybersecurity</h3>
 
 <p align="center">
-  Construindo soluções com Python, C++ e dados desde antes da graduação.<br>
+  Construindo soluções com C++ e dados desde antes da graduação.<br>
   Cofundador de um projeto premiado nacionalmente pela redução do desperdício de água na irrigação.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bruno-garutti">
+  <a href="https://www.linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:brunomgpinto07@gmail.com">
@@ -33,10 +33,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -45,7 +49,6 @@
 
 **[Maratona Tech — Solução para Redução do Desperdício de Água na Irrigação](#)**
 Projeto desenvolvido em Python e C++ para reduzir o desperdício de água em plantações de pequeno e médio porte, aplicando modelos preditivos e analíticos baseados em variáveis quantitativas. 1º lugar nas etapas local e regional da Liga Jovem; finalista nacional na Maratona Tech.
-> *(Substitua o `#` acima pelo link real do repositório assim que estiver publicado.)*
 
 ---
 
@@ -58,4 +61,4 @@ Projeto desenvolvido em Python e C++ para reduzir o desperdício de água em pla
 
 ---
 
-<p align="center">📫 Como me encontrar: <b>brunomgpinto07@gmail.com</b> · <a href="https://linkedin.com/in/bruno-garutti">linkedin.com/in/bruno-garutti</a></p>
+<p align="center">📫 Como me encontrar: <b>brunomgpinto07@gmail.com</b> · <a href="https://www.linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b/">linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b</a></p>
