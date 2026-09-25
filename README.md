@@ -52,4 +52,4 @@ Projeto desenvolvido em Python e C++ para reduzir o desperdício de água em pla
 
 ---
 
-<p align="center">📫 Como me encontrar: <b>brunomgpinto07@gmail.com</b> · <a href="https://www.linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b/">linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b</a></p>
+<p align="center">📫 Como me encontrar: <b>brunomgpinto07@gmail.com</b> 
