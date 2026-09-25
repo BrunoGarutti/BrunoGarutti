@@ -1,42 +1,61 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYyNWE1NTUxNXRpdGFrdDVnYXJhMWFmdTV2em52MWxuYWR1NDU4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif"  />
-</div>
+<h1 align="center">Olá, eu sou o Bruno 👋</h1>
 
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-matheus-garutti-pinto-07a67434b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="mailto:brunomgpinto@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
-  <a href="https://www.instagram.com/bruno_zye/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-</div>
+<h3 align="center">Estudante de Ciência da Computação | Dev, Dados, IA & Cybersecurity</h3>
 
-###
+<p align="center">
+  Construindo soluções com Python, C++ e dados desde antes da graduação.<br>
+  Cofundador de um projeto premiado nacionalmente pela redução do desperdício de água na irrigação.
+</p>
 
-<h1 align="center">Olá</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/bruno-garutti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brunomgpinto07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">Meu nome é Bruno Matheus Garutti Pinto, tenho 18 anos e sou residente em São Paulo. Sou formado pelo Colégio Ser e atualmente graduando em Ciência da Computação pela UPM. Sou um grande entusiasta da área de tecnologia e busco uma oportunidade no mercado para aplicar meus conhecimentos acadêmicos, contribuir com soluções inovadoras e desenvolver minha carreira de forma prática.</h3>
+### 🚀 Sobre mim
 
-###
+- 🎓 Cursando Ciência da Computação na **Universidade Presbiteriana Mackenzie**
+- 💡 Interesse em **desenvolvimento de software, análise de dados, inteligência artificial e cybersecurity**
+- 🏆 Cofundador de um projeto que resolveu o desperdício de água na irrigação de pequenas e médias plantações — 1º lugar regional na **Liga Jovem** e finalista nacional na **Maratona Tech**
+- 🌱 Atualmente aprofundando conhecimentos em estruturas de dados, algoritmos e fundamentos de segurança
+- 📌 Aberto a oportunidades de **estágio**
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📌 Projeto em destaque
 
-###
+**[Maratona Tech — Solução para Redução do Desperdício de Água na Irrigação](#)**
+Projeto desenvolvido em Python e C++ para reduzir o desperdício de água em plantações de pequeno e médio porte, aplicando modelos preditivos e analíticos baseados em variáveis quantitativas. 1º lugar nas etapas local e regional da Liga Jovem; finalista nacional na Maratona Tech.
+> *(Substitua o `#` acima pelo link real do repositório assim que estiver publicado.)*
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BrunoGarutti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoGarutti&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGarutti&layout=compact" height="165" />
+</p>
+
+---
+
+<p align="center">📫 Como me encontrar: <b>brunomgpinto07@gmail.com</b> · <a href="https://linkedin.com/in/bruno-garutti">linkedin.com/in/bruno-garutti</a></p>
